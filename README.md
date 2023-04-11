@@ -9,18 +9,18 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <a href="" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
-   </a>
-  &emsp;
-    &emsp;
-      <a href="">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
-  </a>
-    &emsp;
+<p hizalama="sol">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
 ### 👉 Databases & Cloud Hosting
