@@ -16,16 +16,9 @@ Here are some ideas to get you started:
      <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
    </a>
   &emsp;
-  <a href="">
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
-  </a>
     &emsp;
       <a href="">
     <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
-  </a>
-      &emsp;
-  <a href="">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
   </a>
     &emsp;
 </p>
