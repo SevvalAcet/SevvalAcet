@@ -23,15 +23,6 @@ Here are some ideas to get you started:
     &emsp;
 </p>
 
-### 👉  Frameworks Tools & Technologies..
-<p align="left">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-   <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
-
-</p>
-
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
